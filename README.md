@@ -2,6 +2,7 @@
 
 This is the origin Pytorch implementation of Informer in the following paper: SimStock : Representation Model for Stock Similarities
 
+![image](https://github.com/Yoontae6719/SimStock-Representation-Model-for-Stock-Similarities/assets/87846187/b5e328f2-bff7-4540-b3a0-5dac47079d17)
 
 
 **News**(July 31, 202023): Will be updated.

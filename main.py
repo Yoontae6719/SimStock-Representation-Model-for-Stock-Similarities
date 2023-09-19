@@ -87,11 +87,11 @@ def main(arsgs):
     print("Training time:", ending_time - starting_time)
 
     # Testing
-    representation_l = test(train_out[-1], models, args, log, device, Es[-1], hiddens[-1], is_pre = True)
-    test(train_out[-1], models, args, log, device, Es[-1], hiddens[-1], is_pre = False)
+    representation_l = test(train_out[-1], models, args, log, device, Es[-1], hiddens[-1], is_repre = True)
+    test(train_out[-1], models, args, log, device, Es[-1], hiddens[-1], is_repre = False)
 
     # Testing 2
-    representation_ll = test(test_out[-1], models, args, log, device, Es[-1], hiddens[-1], is_pre = True)
+    representation_ll = test(test_out[-1], models, args, log, device, Es[-1], hiddens[-1], is_repre = True)
     
     return representation_l, representation_ll
 

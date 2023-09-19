@@ -4,7 +4,7 @@ This is the origin Pytorch implementation of SimStock in the following paper: Si
 
 ![image](https://github.com/Yoontae6719/SimStock-Representation-Model-for-Stock-Similarities/assets/87846187/b5e328f2-bff7-4540-b3a0-5dac47079d17)
 
-🚩**News**(September 19, 2023): We will release SimStock V2 soon. [Yoontae Hwang, Yongjea lee, 2023, Universal Stock representation, working paper]
+🚩**News**(September 19, 2023): We will release SimStock V2 soon. **Yoontae Hwang and Yongjea lee, 2023, Universal Stock representation, working paper**
  
 
 ## Get Started

@@ -17,8 +17,8 @@ This is the origin Pytorch implementation of SimStock in the following paper: Si
 
 
 ## What is SimStock?
-In the vast and multifaceted world of stock data, it is difficult to utilize the array of information effectively. Navigating a wealth of information from the stock market, including fundamental, technical, and sentiment data, can often be daunting and labor-intensive. Fortunately, when large-scale data and various data types are considered, self-supervised learning (SSL) holds promise for discovering unique representations (i.e., low-dimensional embeddings) of stock data. In particular, due to their versatility, these representations can be utilized in a wide range of sub-tasks such as forecasting, classification, and anomaly detection. Despite the recent successes of SSL in areas like images and natural language, there has been relatively less focus on SSL for time series data with non-stationary characteristics, such as stock data.
-
+In this study, we introduce \texttt{SimStock}, a novel framework leveraging self-supervised learning and temporal domain generalization techniques to represent similarities of stock data. Our model is designed to address two critical challenges: 1) temporal distribution shift (caused by the non-stationarity of financial markets), and 2) ambiguity in conventional regional and sector classifications (due to rapid globalization and digitalization).
+\texttt{SimStock} exhibits outstanding performance in identifying similar stocks across four real-world benchmarks, encompassing thousands of stocks. The quantitative and qualitative evaluation of the proposed model compared to various baseline models indicates its potential for practical applications in stock market analysis and investment decision-making.
 
 
 ## Citation

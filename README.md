@@ -40,3 +40,8 @@ We appreciate the following github repos a lot for their valuable code base or d
 
 DRAIN : https://github.com/BaiTheBest/DRAIN
 
+## License
+SPDX-FileCopyrightText: © 2023 yoontae hwang yoontae@unist.ac.kr
+
+SPDX-License-Identifier: BSD-3-Clause
+

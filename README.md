@@ -17,8 +17,8 @@ This is the origin Pytorch implementation of SimStock in the following paper: Si
 
 
 ## What is SimStock?
-In this study, we introduce \texttt{SimStock}, a novel framework leveraging self-supervised learning and temporal domain generalization techniques to represent similarities of stock data. Our model is designed to address two critical challenges: 1) temporal distribution shift (caused by the non-stationarity of financial markets), and 2) ambiguity in conventional regional and sector classifications (due to rapid globalization and digitalization).
-\texttt{SimStock} exhibits outstanding performance in identifying similar stocks across four real-world benchmarks, encompassing thousands of stocks. The quantitative and qualitative evaluation of the proposed model compared to various baseline models indicates its potential for practical applications in stock market analysis and investment decision-making.
+In this study, we introduce SimStock, a novel framework leveraging self-supervised learning and temporal domain generalization techniques to represent similarities of stock data. Our model is designed to address two critical challenges: 1) temporal distribution shift (caused by the non-stationarity of financial markets), and 2) ambiguity in conventional regional and sector classifications (due to rapid globalization and digitalization).
+SimStock exhibits outstanding performance in identifying similar stocks across four real-world benchmarks, encompassing thousands of stocks. The quantitative and qualitative evaluation of the proposed model compared to various baseline models indicates its potential for practical applications in stock market analysis and investment decision-making.
 
 
 ## Citation
@@ -31,9 +31,10 @@ Will be update
 
 ## Contact
 
-If you have any questions or want to use the code, please contact `yoontae@unist.ac.kr`. 
+**I was responsible for all the code, related works, methodology, experiments, and experimental results.** If you have any questions, please feel free to contact me at **yoontae@unist.ac.kr**
+
 
 ## Acknowledgments
-```
-Will be update
-```
+
+We appreciate the following github repos a lot for their valuable code base or datasets:
+DRAIN : https://github.com/BaiTheBest/DRAIN

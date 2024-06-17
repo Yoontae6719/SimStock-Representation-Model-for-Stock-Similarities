@@ -4,7 +4,7 @@ This is the origin Pytorch implementation of SimStock in the following paper: Si
 
 ![image](https://github.com/Yoontae6719/SimStock-Representation-Model-for-Stock-Similarities/assets/87846187/b5e328f2-bff7-4540-b3a0-5dac47079d17)
 
-🚩**News**(June 16, 2024)  We will release SimStock V2 soon. **Yoontae Hwang, Stefan Zohren, Yongjea lee, 2024, Temporal Representation Learning for Stock Similarities and Its Applications in Investment Management, working paper**
+🚩**News**(June 16, 2024)  We will release SimStock V2 soon. **Yoontae Hwang, Stefan Zohren, Yongjea lee, 2024, Temporal Representation Learning for Stock Similarities and Its Applications in Investment Management, working paper** (SimStockV2)
 
 🚩**News**(December 27, 2023) I'm currently preparing for my Ph.D. defense, so updates to the cleanup code are delayed. I will update it as soon as possible. 
 

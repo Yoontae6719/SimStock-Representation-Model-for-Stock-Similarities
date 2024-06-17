@@ -42,8 +42,8 @@ Will be update
 
 We appreciate the following github repos a lot for their valuable code base or datasets:
 
-DRAIN : https://github.com/BaiTheBest/DRAIN
-The Gerber Statistic: A Robust Co-Movement Measure for Portfolio Optimization : https://github.com/yinsenm/gerber/tree/master
+- DRAIN : https://github.com/BaiTheBest/DRAIN
+- The Gerber Statistic: A Robust Co-Movement Measure for Portfolio Optimization : https://github.com/yinsenm/gerber/tree/master
 
 ## License
 SPDX-FileCopyrightText: © 2023 yoontae hwang yoontae@unist.ac.kr
